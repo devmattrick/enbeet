@@ -6,7 +6,7 @@
 
     <groupId>org.mattrick</groupId>
     <artifactId>enbeet</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
