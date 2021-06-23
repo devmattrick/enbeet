@@ -2,6 +2,17 @@
 enbeet is a modern Java NBT library. Its codebase is intentionally small and easy to understand. It makes extensive use 
 of the Optional API to make null handling much more explicit and safer.
 
+## Installation
+Enbeet is on Maven Central, so you don't need to include any repositories to use it. Simply add the following to your 
+pom.xml:
+```xml
+<dependency>
+    <groupId>org.mattrick</groupId>
+    <artifactId>enbeet</artifactId>
+    <version>1.0.2</version>
+</dependency>
+```
+
 ## Usage
 ```java
 // Reading NBT
